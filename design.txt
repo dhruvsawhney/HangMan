@@ -1,0 +1,27 @@
+The Logic for the game
+
+    Choose a word from the dictionary of words and store it
+
+    Display the word as an array of characters: default is _, else, the char
+
+    Word: b _ _ _ _
+    Guesses: e a g
+    Misses:  b
+
+    // serialize contents a file and then deserialize it
+    Need to serialize the GAME
+
+    // Data members
+    word chosen
+
+    # store them as arrays
+    word guessed so far
+    Guesses made
+    Misses made
+
+    # have a to_s method to print the contents to screen
+
+
+    Hangman class
+
+    Driver class
